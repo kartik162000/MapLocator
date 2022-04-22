@@ -1,18 +1,6 @@
-# Getting Started with Google Maps API with Places autocomplete and Directions service and renderer.
-
-## What is covered?
-
-1. Google maps in React
-2. Adding Markers
-3. Panning and zooming maps
-4. Disable default controls
-5. Places Autocomplete
-6. Directions Service
-7. Directions Renderer on map
-
-## Youtube tutorial
-
-[https://youtu.be/iP3DnhCUIsE](https://youtu.be/iP3DnhCUIsE)
+# MapLocator
+ * This application will allow user to search distance between source and destination.
+ * It will show the route between 2 points and place marker on them
 
 ## Starting the app
 
@@ -33,11 +21,3 @@ OR using npm
 npm install
 npm start
 ```
-
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
